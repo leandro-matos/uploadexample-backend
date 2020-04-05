@@ -9,7 +9,7 @@ const cors = require("cors");
 const app = express();
 
 /**
- * Database Setup
+ * Database Setup - Configuration
  */
 
 mongoose.connect(
